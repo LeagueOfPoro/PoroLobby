@@ -1,8 +1,10 @@
 # PoroLobby
 
-PoroLobby creates 5v5 Practice Tool with bots in League of Legends.
+PoroLobby creates 5v5 Practice Tool with bots in League of Legends. This tool uses [lcu-driver](https://github.com/sousa-andre/lcu-driver) to access League Client API.
 
-## How to use (Windows)
+## How to use
+
+### Easy way
 
 Video guide:
 (WILL BE ADDED)
@@ -15,16 +17,33 @@ Video guide:
 
 ### Advanced users (Win/Mac/Linux)
 
-If you know Python, there's no need to run the exe file. Clone this repo, install requirements with `pip` and run `porolobby.py`.
-This method should work for all platforms.
+If you know Python, there's no need to run the exe file.
+
+1. Install [Python 3](https://www.python.org/downloads/)
+
+2. Clone this repository and navigate to its folder
+```SHELL
+git clone https://github.com/LeagueOfPoro/PoroLobby.git
+cd PoroLobby
+```
+
+3. Install requirements
+```SHELL
+pip install -r requirements.txt
+```
+4. Run `porolobby.py`
+```SHELL
+python porolobby.py
+```
+This method should work on all platforms.
 
 ## Disclaimer
 
-Use of this tool should not be bannable by Riot Games. That said, League of Poro provides no guarantee whatsoever. Use at your own risk!
+This tool uses the official League Client API, and therfore the use of this tool should not be bannable by Riot Games. That said, League of Poro provides no guarantee whatsoever. Use at your own risk!
 
 ## License 
 
-This tool is distributed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This tool is distributed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## Endorsement
 
