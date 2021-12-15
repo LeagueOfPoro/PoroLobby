@@ -7,7 +7,8 @@ PoroLobby creates 5v5 Practice Tool with bots in League of Legends. This tool us
 ### Easy way
 
 Video guide:
-(WILL BE ADDED)
+
+[![Video guide](https://img.youtube.com/vi/EHd3vRVECLg/0.jpg)](https://www.youtube.com/watch?v=EHd3vRVECLg)
 
 1. Download `PoroLobby.zip` file from Releases section. Or just click this link.
 2. Extract the archive and go to the extracted `PoroLobby` folder
