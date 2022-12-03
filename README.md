@@ -13,7 +13,7 @@ Video guide:
 1. Download `PoroLobby.zip` file from Releases section. Or just click this link.
 2. Extract the archive and go to the extracted `PoroLobby` folder
 2. Start League of Legends and log in
-3. Run the `porolobby.exe` - the lobby will be created and filled with easy bots
+3. Run the `porolobby.exe` - the lobby will be created and filled with intermediate bots
 4. Start the game and ENJOY!
 
 ### Advanced users (Win/Mac/Linux)
