@@ -1,9 +1,13 @@
 import json
 
 class Config:
-    def __init__(self, config_file):
-        with open(config_file) as f:
-            self.config = json.load(f)
+    def __init__(self, configFile, logger):
+        try:
+            with open(configFile) as f:
+                self.config = json.load(f)
+        except FileNotFoundError:
+            logger.warning(f"The configuration file {configFile} was not found. using default values.")
+            self.config = {}
 
     def get(self, key, default=None):
         return self.config.get(key, default)
