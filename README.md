@@ -19,7 +19,9 @@ Video guide (deprecated):
 
 ### Configuration
 
-The configuration is stored in `config.json`. You can specify different config file using command line interface. For example: `porolobby.exe -c alternativeConfig.json`
+The configuration is stored in `config.json`. You can specify different config file using command line interface. For example: `porolobby.exe -c alternativeConfig.json`.
+
+The list of all bot IDs is available in [availableBots.json](https://github.com/LeagueOfPoro/PoroLobby/blob/master/availableBots.json)
 
 ## Installation (advanced)
 
