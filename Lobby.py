@@ -30,7 +30,6 @@ class Lobby:
                 "isCustom": True,
             }
             lobby = self.cm.post('/lol-lobby/v2/lobby', data)
-            print(lobby)
             if lobby.status_code == 200:
                 self.logger.info('The lobby was created correctly')
             else:
