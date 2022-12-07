@@ -36,8 +36,8 @@ class ConnectionManager:
     def _extractConnectionSettings(self) -> None:
         for item in self.proc.cmdline():
             if item.startswith('--app-pid='):
-                self.app_pid = item.split('=')[1]
+                self.app_pid = item.split('=', 1)[1]
             elif item.startswith('--app-port='):
-                self.app_port = item.split('=')[1]
+                self.app_port = item.split('=', 1)[1]
             elif item.startswith('--remoting-auth-token='):
-                self.remoting_auth_token = item.split('=')[1]
+                self.remoting_auth_token = item.split('=', 1)[1]
