@@ -1,0 +1,28 @@
+{
+    "maxBotsBlue": 2,
+    "maxBotsRed": 4,
+    "teamSize": 5,
+    "gameMode": "PRACTICETOOL",
+    "lobbyName": "League of Poro's Practice Tool",
+    "lobbyPassword": "",
+    "spectatorPolicy": "AllAllowed",
+    "defaultBotDifficulty": "MEDIUM",
+    "botsBlue": [
+        {
+            "championId": 1
+        },
+        {
+            "championId": 3,
+            "botDifficulty": "EASY"
+        }
+    ],
+    "botsRed": [
+        {
+            "championId": 1
+        },
+        {
+            "championId": 3,
+            "botDifficulty": "EASY"
+        }
+    ]
+}
