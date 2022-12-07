@@ -1,0 +1,227 @@
+[
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 1,
+    "name": "Annie"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 3,
+    "name": "Galio"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 8,
+    "name": "Vladimir"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 10,
+    "name": "Kayle"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 11,
+    "name": "Master Yi"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 12,
+    "name": "Alistar"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 13,
+    "name": "Ryze"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 15,
+    "name": "Sivir"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 16,
+    "name": "Soraka"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 18,
+    "name": "Tristana"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 19,
+    "name": "Warwick"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 21,
+    "name": "Miss Fortune"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 22,
+    "name": "Ashe"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 24,
+    "name": "Jax"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 25,
+    "name": "Morgana"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 26,
+    "name": "Zilean"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 30,
+    "name": "Karthus"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 31,
+    "name": "Cho'Gath"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 32,
+    "name": "Amumu"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 33,
+    "name": "Rammus"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 36,
+    "name": "Dr. Mundo"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 44,
+    "name": "Taric"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 45,
+    "name": "Veigar"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 48,
+    "name": "Trundle"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 51,
+    "name": "Caitlyn"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 53,
+    "name": "Blitzcrank"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 54,
+    "name": "Malphite"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 58,
+    "name": "Renekton"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 62,
+    "name": "Wukong"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 63,
+    "name": "Brand"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 69,
+    "name": "Cassiopeia"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 75,
+    "name": "Nasus"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 76,
+    "name": "Nidalee"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 81,
+    "name": "Ezreal"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 86,
+    "name": "Garen"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 89,
+    "name": "Leona"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 96,
+    "name": "Kog'Maw"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 98,
+    "name": "Shen"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 99,
+    "name": "Lux"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 102,
+    "name": "Shyvana"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 104,
+    "name": "Graves"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 115,
+    "name": "Ziggs"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 122,
+    "name": "Darius"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 143,
+    "name": "Zyra"
+  },
+  {
+    "botDifficulties": ["EASY", "MEDIUM"],
+    "id": 236,
+    "name": "Lucian"
+  }
+]

@@ -29,8 +29,8 @@ class Lobby:
                 },
                 "isCustom": True,
             }
-
             lobby = self.cm.post('/lol-lobby/v2/lobby', data)
+            print(lobby)
             if lobby.status_code == 200:
                 self.logger.info('The lobby was created correctly')
             else:
@@ -101,4 +101,4 @@ class Lobby:
         return self.cm.get("/lol-lobby/v2/lobby/custom/available-bots").json()
 
     def testCall(self):
-        return self.cm.get("/lol-lobby/v2/lobby/members").json()
+        return self.cm.get("/lol-lobby/v2/lobby").json()

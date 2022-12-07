@@ -2,7 +2,7 @@
     "maxBotsBlue": 2,
     "maxBotsRed": 4,
     "teamSize": 5,
-    "gameMode": "PRACTICETOOL",
+    "gameMode": "PRACTICETOOL", 
     "lobbyName": "League of Poro's Practice Tool",
     "lobbyPassword": "",
     "spectatorPolicy": "AllAllowed",
