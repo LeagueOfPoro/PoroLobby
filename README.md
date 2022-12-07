@@ -1,12 +1,12 @@
 # PoroLobby
 
-PoroLobby creates 5v5 Practice Tool with bots in League of Legends. This tool uses [lcu-driver](https://github.com/sousa-andre/lcu-driver) to access League Client API.
+PoroLobby creates 5v5 Practice Tool with bots in League of Legends. This tool accesses League Client API.
 
 ## How to use
 
-### Easy way
+### Easy way (deprecated)
 
-Video guide:
+Video guide (deprecated):
 
 [![Video guide](https://img.youtube.com/vi/EHd3vRVECLg/0.jpg)](https://www.youtube.com/watch?v=EHd3vRVECLg)
 
@@ -16,27 +16,18 @@ Video guide:
 3. Run the `porolobby.exe` - the lobby will be created and filled with easy bots
 4. Start the game and ENJOY!
 
-### Advanced users (Win/Mac/Linux)
+## Installation (advanced)
 
-If you know Python, there's no need to run the exe file.
+### Prerequisities
+- Python >= 3.10.0 (it might work with older versions)
+- pipenv (`pip install pipenv`)
 
-1. Install [Python 3](https://www.python.org/downloads/)
-
-2. Clone this repository and navigate to its folder
-```SHELL
-git clone https://github.com/LeagueOfPoro/PoroLobby.git
-cd PoroLobby
-```
-
-3. Install requirements
-```SHELL
-pip install -r requirements.txt
-```
-4. Run `porolobby.py`
-```SHELL
-python porolobby.py
-```
-This method should work on all platforms.
+### Step by step
+1. Clone this repo - `git clone https://github.com/LeagueOfPoro/PoroLobby.git`
+2. Move to the directory -  `cd PoroLobby`
+3. Install the Python virtual environment - `pipenv install`
+4. (Optional) Edit the configuration file
+5. Run the tool - `pipenv run python ./porolobby.py`
 
 ## Disclaimer
 
