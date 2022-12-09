@@ -2,6 +2,7 @@ import psutil
 import requests
 from exceptions.ClientNotRunningException import ClientNotRunningException
 
+# This class was inspired by lcu-driver: https://github.com/sousa-andre/lcu-driver
 class ConnectionManager:
 
     def __init__(self) -> None:
